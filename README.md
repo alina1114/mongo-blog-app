@@ -9,7 +9,7 @@ Node.js and npm installed on your system.
 A terminal or command prompt for running scripts.
 Step 1: Clone the Repository
 Clone the project repository to your local machine:
-git clone <repository-link>
+git clone https://github.com/alina1114/mongo-blog-app
 cd submission
 Step 2: Install Dependencies
 Run the following command in the project directory to install the required Node.js modules:
@@ -22,8 +22,6 @@ Project Overview
 This project demonstrates the implementation of a MongoDB-based blog application. It includes features for managing users, blogs, comments, and tags, along with sample data and CRUD operations.
 
 Project Structure
-graphql
-Copy code
 submission/
 ├── setup/
 │   ├── create_collections.js       # Script to create MongoDB collections and schemas
@@ -48,10 +46,7 @@ Node.js and npm installed on your system.
 A terminal or command prompt for running scripts.
 Step 1: Clone the Repository
 Clone the project repository to your local machine:
-
-bash
-Copy code
-git clone <repository-link>
+git clone https://github.com/alina1114/mongo-blog-app
 cd submission
 Step 2: Install Dependencies
 Run the following command in the project directory to install the required Node.js modules:
