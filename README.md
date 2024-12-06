@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blog Application - MongoDB Project
 Project Overview
 This project demonstrates the implementation of a MongoDB-based blog application. It includes features for managing users, blogs, comments, and tags, along with sample data and CRUD operations.
@@ -66,3 +67,6 @@ Dependencies
 Node.js: JavaScript runtime.
 MongoDB: Database for managing collections.
 Mongoose: MongoDB object modeling library.
+=======
+# mongo-blog-app
+>>>>>>> 1d0136ad5b23c962cff294f219ac26e11e524976
