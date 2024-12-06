@@ -1,0 +1,75 @@
+[{
+    "_id": {
+      "$oid": "67531b1ef76f9512ca0d8190"
+    },
+    "name": "MongoDB Tutorial",
+    "URL": "https://example.com/mongodb",
+    "author": {
+      "$oid": "6752c9774e29892cd00d8191"
+    },
+    "blogEntry": [
+      {
+        "article": "Introduction to MongoDB",
+        "publishDate": {
+          "$date": "2024-12-01T00:00:00.000Z"
+        },
+        "comment": [
+          {
+            "comment": "Fantastic post!",
+            "commentDate": {
+              "$date": "2024-12-02T00:00:00.000Z"
+            },
+            "commentBy": {
+              "$oid": "6752c9774e29892cd00d8191"
+            }
+          },
+          {
+            "comment": "Very informative.",
+            "commentDate": {
+              "$date": "2024-12-03T00:00:00.000Z"
+            },
+            "commentBy": {
+              "$oid": "6752c9774e29892cd00d8192"
+            }
+          }
+        ]
+      }
+    ],
+    "tags": [
+      {
+        "value": "MongoDB"
+      },
+      {
+        "value": "Database"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67531bbcf2713509240d8190"
+    },
+    "name": "Advanced MongoDB Features",
+    "URL": "https://example.com/advanced-mongodb",
+    "author": {
+      "$oid": "6752c9774e29892cd00d8191"
+    },
+    "blogEntry": [
+      {
+        "article": "Understanding Aggregations",
+        "publishDate": {
+          "$date": "2024-12-05T00:00:00.000Z"
+        },
+        "comment": [
+          {
+            "comment": "This was helpful!",
+            "commentDate": {
+              "$date": "2024-12-06T00:00:00.000Z"
+            },
+            "commentBy": {
+              "$oid": "6752c9774e29892cd00d8192"
+            }
+          }
+        ]
+      }
+    ]
+  }]
